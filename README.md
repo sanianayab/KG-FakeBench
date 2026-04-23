@@ -1,3 +1,8 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-2407.19825-b31b1b.svg)]( ... ) -->
+<!-- [![Paper](https://img.shields.io/badge/Paper-PDF-blue)]( ..... ) -->
+
 # KG-FakeBench: Generating and Detecting Knowledge-Graph-Grounded Fake Information with LLMs
 
 KG-FakeBench is a large-scale benchmark for evaluating large language models (LLMs) on **AI-generated misinformation** under controlled factual deviations.
