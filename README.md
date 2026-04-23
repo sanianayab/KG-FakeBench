@@ -49,10 +49,6 @@ KG-FakeBench consists of two main components:
 - Ground statements into KG triples  
 - Use **triple-based prompting** for factual verification  
 
-As illustrated in **Figure 1 of the paper**, the framework jointly models:
-- **Generation (top)**: structured fake creation  
-- **Verification (bottom)**: evidence-based detection  
-
 ---
 ## 📂 Repository Structure
 
