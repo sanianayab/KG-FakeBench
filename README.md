@@ -81,8 +81,7 @@ The implementation is divided into:
 
 ## ⚠️ Disclaimer
 
-This dataset contains **synthetic misinformation** generated for research purposes only.  
-It is intended to support the development of **robust and trustworthy detection systems**.
+This dataset contains synthetic misinformation generated strictly for **research purposes**. It is intended to support the development of robust misinformation detection systems and should not be used to generate, spread, or facilitate real-world disinformation. All samples are derived from **WikiGraphs**, a publicly available knowledge graph, and contain no personally identifiable information. Every fake sample is traceable to its source KG triple, ensuring full provenance transparency. By accessing this dataset and pipeline to generate it, users agree to use it **solely for academic and research purposes** in accordance with responsible AI research practices.
 
 ---
 
